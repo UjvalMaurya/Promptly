@@ -1,1 +1,2 @@
-https://clever-sunburst-02641f.netlify.app/text
+https://clever-sunburst-02641f.netlify.app
+
